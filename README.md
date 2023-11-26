@@ -6,9 +6,9 @@ An AI-powered tool for the early detection of Hereditary Spherocytosis and relat
 
 1. [What is Hereditary Spherocytosis (HS)?](#1-what-is-hereditary-spherocytosis)
 2. [What does the MaskRCNN Model Detect?](#2-what-does-the-maskrcnn-model-detect)
-3. [Data](#3-data)
-4. [Bibliography](#4-bibliography)
-5. [The Model](#5-the-model)
+  2.1. [Data](#3-data)
+  2.2. [Bibliography](#4-bibliography)
+  2.3. [The Model](#5-the-model)
 
 ## 1. What is Hereditary Spherocytosis (HS)? 💉 🩸
 

@@ -40,4 +40,5 @@ Explore related research for a comprehensive understanding:
 ## 6. Model Details
 
 The project employs Mask R-CNN with Mobilenet V2 as the backbone model from the TensorFlow Model Garden. The dataset labeling was performed using Roboflow.
+![Result](./image.png)
 
